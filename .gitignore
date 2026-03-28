@@ -1,0 +1,14 @@
+.env
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+pycache/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.sqlite3
+db.sqlite3
